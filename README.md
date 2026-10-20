@@ -1,13 +1,23 @@
----
-title: Crop Recommendation
-emoji: 🌱
-colorFrom: green
-colorTo: blue
-sdk: gradio
-sdk_version: 6.6.0
-python_version: "3.10"
-app_file: app.py
-pinned: false
----
+# Crop Recommendation System 🌱
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+An AI-powered application that recommends suitable crops based on agricultural input features.
+
+## 🚀 Live Demo
+
+Try the application here:
+
+[Crop Recommendation App — Hugging Face Spaces](https://huggingface.co/spaces/EngySalem/crop_recommendation)
+
+## 🛠️ Technologies
+
+- Python
+- Machine Learning
+- Hugging Face Spaces
+
+## 💻 Project Overview
+
+This project provides a web interface for crop recommendations based on the input features supported by the trained model.
+
+## 🔗 Demo
+
+https://huggingface.co/spaces/EngySalem/crop_recommendation
