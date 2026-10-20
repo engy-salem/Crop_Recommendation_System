@@ -18,6 +18,3 @@ Try the application here:
 
 This project provides a web interface for crop recommendations based on the input features supported by the trained model.
 
-## 🔗 Demo
-
-https://huggingface.co/spaces/EngySalem/crop_recommendation
